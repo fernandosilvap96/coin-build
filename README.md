@@ -77,7 +77,7 @@ contract Token {
 
 ### Metamask
 
-- Precisamos entrar na nossa wallet da Metamask, instale a extensão do metamask através desse <a href="https://metamask.io/download.html">link</a>.
+- Precisamos entrar na nossa wallet da Metamask, instale a extensão do Metamask através desse <a href="https://metamask.io/download.html">link</a>.
 
 - Caso não tenha nenhuma wallet, crie uma nova:
 
@@ -101,7 +101,22 @@ contract Token {
 
 - Voltando ao IDE REMIX, selecione a opção Deploy and run Transactions:
 
-- Mude o campo **JavascriptVM(London)** para **injected Web3**
+- Mude o campo **JavascriptVM(London)** para **injected Web3**, caso dê erro tente atualizar a página, compilar novamente e então você deve chegar a essa configuração:
+
+![image](https://user-images.githubusercontent.com/84604722/135323933-9e0ff73c-79da-45cf-95d7-043865b08a40.png)
+
+- Coloque os dados para Deploy, ex: Nome _Ethereum_ / sigla _ETH_:
+
+![image](https://user-images.githubusercontent.com/84604722/135324420-a1b6b568-24e5-44b4-8a84-7f55d0c9a071.png)
+
+- Clique em "transact", e então confirme a transação no Metamask.
+
+- Copie o endereço do contrato que acabamos de gerar
+
+
+
+
+
 
 
 
@@ -136,6 +151,9 @@ Deploy Button
 Enter the parameters for deployment for (name, symbol, decimals,totalSupply)
 Example paramters "TokenName", "TKT", 18, 7000000000000000000000
 Click deploy button and confirm transaction on MetaMask
+
+
+
 Deployed Contracts
 Scroll down to deployed contracts section and click on deployed contract
 View buttons for all the functions you can carry out on contract e.g approve, transfer etc (Deployer will have all the initial tokens)
