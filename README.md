@@ -1,11 +1,11 @@
 <h1 align="center">Criação de uma criptomoeda</h1>
 
 
-## Resumo
+## Objetivo
 
 Vamos criar uma criptomoeda do zero, tudo feito no browser através do IDE REMIX, Metamask e por fim vamos lançar nossa ICO na Uniswap.
 
-## Deploy do contrato
+### Deploy do contrato
 
 - Acesse o IDE REMIX através desse <a href="https://remix.ethereum.org/">link</a>.
 - Crie um Smart Contract com o nome de _Token.sol_:
