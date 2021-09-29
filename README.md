@@ -79,9 +79,7 @@ contract Token {
 
 - Precisamos entrar na nossa wallet da Metamask, instale a extensão do Metamask através desse <a href="https://metamask.io/download.html">link</a>.
 
-- Caso não tenha nenhuma wallet, crie uma nova:
-
-![image](https://user-images.githubusercontent.com/84604722/135321348-de37b76d-fd49-4ab9-8587-414212012039.png)
+- Caso não tenha nenhuma wallet, crie uma nova.
 
 - Agora vamos colocar eth da testnet na nossa wallet, para isso siga os passos abaixo: 
 
@@ -121,6 +119,13 @@ contract Token {
 
 ![image](https://user-images.githubusercontent.com/84604722/135327087-7e93330a-5c90-4ada-81c5-b00731d8aaf6.png)
 
+- Com o endereço do nosso contrato copiado, vamos acessar o site da <a href="https://app.uniswap.org/#/swap">Uniswap</a> e então conectar nossa Metamask wallet:
+
+![image](https://user-images.githubusercontent.com/84604722/135327866-8528eec9-d09b-4694-84fe-e27b415be601.png)
+
+- Selecione a opção Metamask e conclua a conexão:
+
+![image](https://user-images.githubusercontent.com/84604722/135328034-dba65e89-bebb-4f8e-8e17-3cbf0270ff5c.png)
 
 
 
