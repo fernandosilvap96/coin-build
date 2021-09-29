@@ -131,12 +131,16 @@ contract Token {
 
 - Clique no campo "Selecione um token" e cole o endereço do nosso contrato:
 
+![image](https://user-images.githubusercontent.com/84604722/135331195-6ca230f8-245e-48a8-888f-21c74c5c1020.png)
+
 ![image](https://user-images.githubusercontent.com/84604722/135329264-1d83ee14-395a-471b-b774-10d8f9820771.png)
 
 -  Clique em importar, após finalizar a importação nós concluimos esse tutorial.
 
 ##### Obrigado pela sua atenção, sinta-se a vontade para entrar em contato caso esteja com alguma dúvida ou para dar feedback.
+
 Linkedin: https://www.linkedin.com/in/fernando-pinto-405011176/ 
+
 Email: fernando-p_@outlook.com
 
 
