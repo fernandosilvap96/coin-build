@@ -83,7 +83,7 @@ contract Token {
 
 ![image](https://user-images.githubusercontent.com/84604722/135321348-de37b76d-fd49-4ab9-8587-414212012039.png)
 
-- Agora vamos colocar eth da testnet, para isso siga os passos abaixo: 
+- Agora vamos colocar eth da testnet na nossa wallet, para isso siga os passos abaixo: 
 
 1º Passo: Conecte sua wallet na testnet Kovan:
 
@@ -93,7 +93,7 @@ contract Token {
 
 ![image](https://user-images.githubusercontent.com/84604722/135322523-9e97fc33-3b92-446d-b29f-f0b0d14a4489.png)
 
-3º Passo: Acesse o site da Faucet <a href="https://linkfaucet.protofire.io/kovan">Kovan</a>, coloque seu endereço e clique em "Send request":
+3º Passo: Acesse o site <a href="https://linkfaucet.protofire.io/kovan">Kovan Faucet</a>, coloque seu endereço e clique em "Send request":
 
 ![image](https://user-images.githubusercontent.com/84604722/135322909-0711e1e1-3c21-411c-b6cb-e2ca7fcc2e50.png)
 
@@ -105,14 +105,21 @@ contract Token {
 
 ![image](https://user-images.githubusercontent.com/84604722/135323933-9e0ff73c-79da-45cf-95d7-043865b08a40.png)
 
-- Coloque os dados para Deploy, ex: Nome _Ethereum_ / sigla _ETH_:
+- Coloque os dados para Deploy, ex = Name: _FernandoCoin_ / Symbol: _FC_:
 
 ![image](https://user-images.githubusercontent.com/84604722/135324420-a1b6b568-24e5-44b4-8a84-7f55d0c9a071.png)
 
 - Clique em "transact", e então confirme a transação no Metamask.
 
-- Copie o endereço do contrato que acabamos de gerar
+- Para consultar o endereço do contrato e todas as transações que fizemos, entre no site <a href="https://kovan.etherscan.io/">TESTNET Kovan</a> e coloque o endereço da sua wallet:
 
+![image](https://user-images.githubusercontent.com/84604722/135326533-ebbb6ebd-c993-4322-ae9d-d70416c04d50.png)
+
+- Copie o endereço do contrato que geramos na hora do Deploy, basta clicar em "Contract Creation":
+
+![image](https://user-images.githubusercontent.com/84604722/135326927-f45cf4d2-ceae-4b85-ba8a-ef1574777f18.png)
+
+![image](https://user-images.githubusercontent.com/84604722/135327087-7e93330a-5c90-4ada-81c5-b00731d8aaf6.png)
 
 
 
