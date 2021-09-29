@@ -9,8 +9,11 @@ Vamos criar uma criptomoeda do zero, tudo feito no browser através do REMIX IDE
 O tutorial será dividido em 4 partes
 
 > Compilar o Smart Contract
+
 > Configurar o Metamask
+
 > Deploy do Smart Contract
+
 > Listar a criptomoeda em uma exchange
 
 ### Compilar Smart Contract
