@@ -3,7 +3,7 @@
 
 ## Objetivo
 
-Vamos criar uma criptomoeda do zero, tudo feito no browser através do IDE REMIX, Metamask e por fim vamos lançar nossa ICO na Uniswap.
+Vamos criar uma criptomoeda do zero, tudo feito no browser através do IDE REMIX, Metamask e por fim vamos lançar nossa criptomoeda na exchange Uniswap.
 
 ### Deploy do contrato
 
