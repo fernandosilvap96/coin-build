@@ -77,7 +77,7 @@ contract Token {
 
 ### Metamask
 
-- Precisamos entrar na nossa wallet da Metamask, instale a extensão do Metamask através desse <a href="https://metamask.io/download.html">link</a>.
+- Precisamos entrar na nossa wallet do Metamask, instale a extensão do Metamask através desse <a href="https://metamask.io/download.html">link</a>.
 
 - Caso não tenha nenhuma wallet, crie uma nova.
 
