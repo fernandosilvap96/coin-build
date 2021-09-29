@@ -99,7 +99,7 @@ contract Token {
 
 - Voltando ao IDE REMIX, selecione a opção Deploy and run Transactions:
 
-- Mude o campo **JavascriptVM(London)** para **injected Web3**, caso dê erro tente atualizar a página, compilar novamente e então você deve chegar a essa configuração:
+- Mude o campo Environment para **injected Web3**, caso dê erro tente atualizar a página, compilar novamente e então você deve chegar a essa configuração:
 
 ![image](https://user-images.githubusercontent.com/84604722/135323933-9e0ff73c-79da-45cf-95d7-043865b08a40.png)
 
