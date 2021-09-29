@@ -1,5 +1,6 @@
 <h1 align="center">Criação de uma criptomoeda</h1>
 
+<img src="coin-build.jpg" alt="coin-build" width="900" height="500">
 
 ## Objetivo
 
