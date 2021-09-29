@@ -5,7 +5,7 @@
 
 Vamos criar uma criptomoeda do zero, tudo feito no browser através do IDE REMIX, Metamask e por fim vamos lançar nossa criptomoeda na exchange Uniswap.
 
-### Deploy do contrato
+### Compilar Smart Contract
 
 - Acesse o IDE REMIX através desse <a href="https://remix.ethereum.org/">link</a>.
 - Crie um Smart Contract com o nome de _Token.sol_:
@@ -69,6 +69,27 @@ contract Token {
 ```
 
 - Clique em compilar o contrato:
+
+
+
+### Metamask
+
+- Precisamos entrar na nossa wallet da Metamask, instale a extensão do metamask através desse <a href="https://metamask.io/download.html">link</a>.
+
+- Caso não tenha nenhuma wallet, crie uma nova:
+
+
+- Vamos colocar eth da testnet 
+
+
+
+### Deploy do Smart Contract
+
+- Voltando ao IDE REMIX, selecione a opção Deploy and run Transactions:
+
+- Mude o campo **JavascriptVM(London)** para **injected Web3**
+
+
 
 
 
