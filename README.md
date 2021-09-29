@@ -1,21 +1,22 @@
-<h1 align="center">Criação de uma criptomoeda</h1>
+<h1 align="center">Criação de Criptomoeda</h1>
 
 <img src="coin-build.jpg" alt="coin-build" width="900" height="500">
 
 ## Objetivo
 
-Vamos criar uma criptomoeda do zero, tudo feito no browser através do IDE REMIX, Metamask e por fim vamos lançar nossa criptomoeda na exchange Uniswap.
+Vamos criar uma criptomoeda do zero, tudo feito no browser através do REMIX IDE, Metamask e por fim vamos lançar nossa criptomoeda na exchange Uniswap.
 
 ### Compilar Smart Contract
 
-- Acesse o IDE REMIX através desse <a href="https://remix.ethereum.org/">link</a>.
-- Crie um Smart Contract com o nome de _Token.sol_:
+- Acesse o REMIX IDE através desse <a href="https://remix.ethereum.org/">link</a>.
+- Crie um Smart Contract com o nome de _Token.sol_ dentro da pasta **contracts**:
 
+![image](https://user-images.githubusercontent.com/84604722/135319543-f77f85a2-db5f-4f99-95da-d96b965066df.png)
 
-
-- Cole o código abaixo no Smart Contract que recém criamos no IDE REMIX:
+- Cole o código abaixo no Smart Contract que acabamos de criar:
 
 ```
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.6;
 
 contract Token {
@@ -70,9 +71,9 @@ contract Token {
 }
 ```
 
-- Clique em compilar o contrato:
+- Clique em "Compile Token.sol" o contrato:
 
-
+![image](https://user-images.githubusercontent.com/84604722/135319861-f3b17a3f-d9bc-42d9-9200-1356b82b179e.png)
 
 ### Metamask
 
