@@ -14,6 +14,7 @@ Vamos criar uma criptomoeda do zero, tudo feito no browser através do IDE REMIX
 
 
 - Cole o código abaixo no Smart Contract que recém criamos no IDE REMIX:
+
 ```
 pragma solidity ^0.8.6;
 
