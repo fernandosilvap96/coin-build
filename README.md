@@ -71,7 +71,7 @@ contract Token {
 }
 ```
 
-- Clique em "Compile Token.sol" o contrato:
+- Clique em "Compile Token.sol":
 
 ![image](https://user-images.githubusercontent.com/84604722/135319861-f3b17a3f-d9bc-42d9-9200-1356b82b179e.png)
 
@@ -81,10 +81,21 @@ contract Token {
 
 - Caso não tenha nenhuma wallet, crie uma nova:
 
+![image](https://user-images.githubusercontent.com/84604722/135321348-de37b76d-fd49-4ab9-8587-414212012039.png)
 
-- Vamos colocar eth da testnet 
+- Agora vamos colocar eth da testnet, para isso siga os passos abaixo: 
 
+1º Passo: Conecte sua wallet na testnet Kovan:
 
+![image](https://user-images.githubusercontent.com/84604722/135322313-b275e28d-38c6-43c6-a2e4-a8e9aea4176a.png)
+
+2º Passo: Copie o seu endereço:
+
+![image](https://user-images.githubusercontent.com/84604722/135322523-9e97fc33-3b92-446d-b29f-f0b0d14a4489.png)
+
+3º Passo: Acesse o site da Faucet <a href="https://linkfaucet.protofire.io/kovan">Kovan</a>, coloque seu endereço e clique em "Send request":
+
+![image](https://user-images.githubusercontent.com/84604722/135322909-0711e1e1-3c21-411c-b6cb-e2ca7fcc2e50.png)
 
 ### Deploy do Smart Contract
 
