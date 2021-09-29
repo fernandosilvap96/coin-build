@@ -139,7 +139,7 @@ contract Token {
 
 ##### Obrigado pela sua atenção, sinta-se a vontade para entrar em contato caso esteja com alguma dúvida ou para dar feedback.
 
-Linkedin: https://www.linkedin.com/in/fernando-pinto-405011176/ 
+Linkedin: <a href="https://www.linkedin.com/in/fernando-pinto-405011176/">Fernando Pinto</a> 
 
 Email: fernando-p_@outlook.com
 
